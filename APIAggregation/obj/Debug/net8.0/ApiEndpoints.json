@@ -1,0 +1,53 @@
+[
+  {
+    "ContainingType": "APIAggregation.Controllers.FetchDataController",
+    "Method": "GetFetchData",
+    "RelativePath": "api/FetchData/FetchData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sort",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIAggregation.Controllers.HolidayController",
+    "Method": "GetHoliday",
+    "RelativePath": "api/Holiday/GetHoliday",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIAggregation.Controllers.LyricController",
+    "Method": "GetLyrics",
+    "RelativePath": "api/Lyric/GetLyrics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIAggregation.Controllers.WeatherController",
+    "Method": "GetWeather",
+    "RelativePath": "api/Weather/GetWeather",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

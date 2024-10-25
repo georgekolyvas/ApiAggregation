@@ -1,0 +1,11 @@
+C:\Users\George\source\repos\APIAggregation\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\George\source\repos\APIAggregation\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\George\source\repos\APIAggregation\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\George\source\repos\APIAggregation\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\source\repos\APIAggregation\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\APIAggregation\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\George\source\repos\APIAggregation\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\APIAggregation\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\George\source\repos\APIAggregation\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\George\source\repos\APIAggregation\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\George\source\repos\APIAggregation\Domain\obj\Debug\net8.0\ref\Domain.dll
